@@ -1,0 +1,15 @@
+body{
+    background-color: darkblue;
+    align-items: center;
+    
+}
+h1{
+    color:antiquewhite;
+}
+
+li{
+    list-style: none;
+    color:antiquewhite;
+    margin: 10px;
+
+}
